@@ -17,3 +17,4 @@ except KeyboardInterrupt:
     GPIO.cleanup()
     print("Programa finalizado")
 # Ley 1Hz: El LED parpadea una vez por segundo (0.5s encendido, 0.5s apagado)
+# Detén el programa con Ctrl+C

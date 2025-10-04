@@ -30,4 +30,6 @@ except KeyboardInterrupt:
     GPIO.cleanup()
     print("Lectura finalizada")
 # Lee el valor del potenciómetro conectado al pin GPIO17
-# Imprime el valor medido en la consola cada 0.5 segundos   
+# Imprime el valor medido en la consola cada 0.5 segundos       
+# Usa un capacitor para medir el tiempo de carga, que varía con la resistencia del potenciómetro
+# Detén el programa con Ctrl+C

@@ -23,4 +23,7 @@ try:
 except KeyboardInterrupt:
     GPIO.cleanup()
     print("Programa finalizado")
-# Ley 1Hz con botón: El LED parpadea una vez por segundo (0.5s encendido, 0.5s apagado) solo cuando se presiona el botón
+# Ley 1Hz con botón: El LED parpadea una vez por segundo (0.5s encendido, 0.5s apagado) solo cuando se presiona el botón    
+# Si el botón no está presionado, el LED permanece apagado
+# Detén el programa con Ctrl+C
+    

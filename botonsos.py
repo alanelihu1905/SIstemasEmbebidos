@@ -59,4 +59,6 @@ except KeyboardInterrupt:
     GPIO.cleanup()
     print("Programa finalizado")
 # SOS con botón: Mantén presionado el botón para enviar SOS en código Morse
-# Suelta el botón para detener el envío inmediatamente
+# Suelta el botón para detener el envío inmediatamente  
+# Si el botón se suelta durante un punto o raya, el LED se apaga inmediatamente
+# Detén el programa con Ctrl+C

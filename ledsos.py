@@ -46,3 +46,5 @@ except KeyboardInterrupt:
     print("Programa finalizado")
 # SOS en Morse: · · · — — — · · ·
 # LED parpadea en patrón SOS (3 cortos, 3 largos, 3 cortos) repetidamente
+# Detén el programa con Ctrl+C
+    

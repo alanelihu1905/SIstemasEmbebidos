@@ -14,7 +14,6 @@
 
 ---
 
-📚 *Proyecto desarrollado para la Unidad de Aprendizaje: Sistemas Embebidos*  
  *Universidad Autónoma de Campeche*  
 
 </div>

@@ -4,8 +4,8 @@
 
 ### **Equipo de Trabajo**
 
-| Integrante | |
-|-------------|--|
+| Integrante |
+|-------------|
 |  **Daniel Esquivel** |
 |  **Miranda Amaro** |
 |  **Fernando Sabido** |

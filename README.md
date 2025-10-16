@@ -6,11 +6,11 @@
 
 | Integrante | |
 |-------------|--|
-|  **Daniel Esquivel** | |
-|  **Miranda Amaro** | |
-|  **Fernando Sabido** | |
-|  **Alan Flores** | |
-|  **Iker Sánchez** | |
+|  **Daniel Esquivel** |
+|  **Miranda Amaro** |
+|  **Fernando Sabido** |
+|  **Alan Flores** |
+|  **Iker Sánchez** |
 
 ---
 

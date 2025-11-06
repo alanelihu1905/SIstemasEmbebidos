@@ -1,0 +1,5 @@
+Flask==3.0.0
+requests==2.32.3
+pydantic==2.8.2
+# RPi.GPIO is only needed on Raspberry Pi. Skip on desktop.
+# RPi.GPIO==0.7.1

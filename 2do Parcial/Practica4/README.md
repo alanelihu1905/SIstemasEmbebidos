@@ -47,7 +47,7 @@ proyecto_sensor_servo/
 │   └── client/
 └── docs/
     └── api_documentation.md
-
+´´´
 
 ## Modo de Ejecución
 
@@ -63,7 +63,9 @@ El sistema tiene dos modos principales:
 ### 🔹 Activar el modo simulado (por defecto)
 ```bash
 export SIMULATED=true
+´´´
 
 ### 🔹 Activar el modo real (solo en Raspberry Pi)
 ```bash
 export SIMULATED=false
+´´´
